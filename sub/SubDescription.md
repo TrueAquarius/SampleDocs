@@ -15,5 +15,8 @@
 > Dangerous certain consequences of an action.
 
 > [!Cross/Ref Detailed Comment="This is a comment"]
-> This is a coress refence.
-> Second line
+> This is a cross refence.
+> Second line.
+>
+
+> [!service/landscape Detailed Comment="This is a comment"]
